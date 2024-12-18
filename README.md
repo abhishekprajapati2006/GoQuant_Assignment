@@ -1,6 +1,6 @@
 # GoQuant Assessment
 
-#high-performance order execution and management system
+- **high-performance order execution and management system
 
 ## Overview
 
