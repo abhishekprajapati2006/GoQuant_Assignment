@@ -1,4 +1,4 @@
-# GoQuant Assessment
+# GoQuant
 
 - **high-performance order execution and management system
 
