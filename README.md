@@ -1,6 +1,6 @@
 # GoQuant Assessment
 
-#git push -u origin main
+#high-performance order execution and management system
 
 ## Overview
 
