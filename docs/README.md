@@ -21,7 +21,7 @@ This project is a trading system designed to handle market data, manage orders, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/trading-system.git
+git clone https://github.com/abhishekprajapati2006/GoQuant_Assignment
 cd trading-system
 
 
