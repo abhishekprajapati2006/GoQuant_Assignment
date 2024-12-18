@@ -1,5 +1,7 @@
 # GoQuant Assessment
 
+#git push -u origin main
+
 ## Overview
 
 The GoQuant Assessment is a trading system designed to evaluate and execute trading strategies in real-time. This project aims to provide a robust framework for analyzing market data, executing trades, and optimizing performance. The system is built with a focus on efficiency, scalability, and ease of use.
