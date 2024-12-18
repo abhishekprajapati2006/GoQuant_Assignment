@@ -29,7 +29,7 @@ Follow these steps to set up the GoQuant Assessment on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/GoQuant_Assessment.git
+git clone https://github.com/abhishekprajapati2006/GoQuant_Assignment
 cd GoQuant_Assessment
 
 
